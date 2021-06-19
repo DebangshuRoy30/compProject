@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "debangshu_roy",
+        "DB_PASS": "debangshu@30",
+        "DB_DEFAULT_DATABASE": "myFirstDatabase",
+        "SENDGRID_KEY": "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"
+    }
+}
